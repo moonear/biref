@@ -11,3 +11,18 @@
 
 ### DAX Resource Center Wiki
 - Support [https://social.technet.microsoft.com/wiki/contents/articles/1088.dax-resource-center.aspx](https://social.technet.microsoft.com/wiki/contents/articles/1088.dax-resource-center.aspx)
+
+___
+
+# Azure Log Analytics
+- [https://docs.loganalytics.io/](https://docs.loganalytics.io/)
+
+## Demo Log Analytics
+- [https://portal.loganalytics.io/demo#/discover/home](https://portal.loganalytics.io/demo#/discover/home)
+
+## Demo Application Insights
+- [https://analytics.applicationinsights.io/demo#/discover/home](https://analytics.applicationinsights.io/demo#/discover/home)
+
+## Language Reference Kusto KQL
+- [https://docs.loganalytics.io/docs/Language-Reference](https://docs.loganalytics.io/docs/Language-Reference)
+
