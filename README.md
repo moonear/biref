@@ -1,3 +1,6 @@
+# newsletter archive
+- sqlbi [https://www.sqlbi.com/newsletter/](https://www.sqlbi.com/newsletter/)
+
 # biref
 
 ### Data Analysis Expressions (DAX) Reference
