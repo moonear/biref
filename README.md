@@ -1,3 +1,7 @@
+moonway	 8 34 PHI DEN
+Boondock 8 43 PHI LAC
+HHH	 8 57 PHI LAC
+
 # newsletter archive
 - sqlbi [https://www.sqlbi.com/newsletter/](https://www.sqlbi.com/newsletter/)
 
