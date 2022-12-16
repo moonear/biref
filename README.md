@@ -1,7 +1,17 @@
 ```
-moonway	 8 34 PHI DEN
-Boondock 8 43 PHI LAC
-HHH	 8 57 PHI LAC
+DonkeyPuncher,16,36
+moonway,16,38
+HailMary,16,45
+Scorpions,16,47
+JimmySkins,16,48
+```
+
+```
+Redmann,16,42
+Wynn,15,40
+Glean,15,41
+fbear31,15,43
+Wookie,15,54
 ```
 
 # newsletter archive
