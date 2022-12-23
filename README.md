@@ -1,17 +1,23 @@
 ```
-DonkeyPuncher,16,36
-moonway,16,38
-HailMary,16,45
-Scorpions,16,47
-JimmySkins,16,48
+moonway,16,51,JAC
+Attabuoy,15,48,JAC
+Locker,14,42,JAC
+sgwinkel,14,42,JAC
+DonkeyPuncher,14,45,JAC
+da Bolts,14,46,JAC
+JimmySkins,14,50,JAC
 ```
 
 ```
-Redmann,16,42
-Wynn,15,40
-Glean,15,41
-fbear31,15,43
-Wookie,15,54
+kasman,16,31,NYJ
+Redmann,16,42,NYJ
+Inforthemoney,15,35,NYJ
+Gob Rronkowski,15,41,NYJ
+Diesel,15,44,JAC
+Gronky Kong,15,47,NYJ
+aaron donald trump,15,47,NYJ
+Gritty,15,48,NYJ
+cgossen,15,55,NYJ
 ```
 
 # newsletter archive
