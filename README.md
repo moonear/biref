@@ -1,23 +1,57 @@
 ```
-moonway,16,51,JAC
-Attabuoy,15,48,JAC
-Locker,14,42,JAC
-sgwinkel,14,42,JAC
-DonkeyPuncher,14,45,JAC
-da Bolts,14,46,JAC
-JimmySkins,14,50,JAC
+Seattle +9.5
+Under 42.5
+Seattle
+SF
+SF
 ```
 
 ```
-kasman,16,31,NYJ
-Redmann,16,42,NYJ
-Inforthemoney,15,35,NYJ
-Gob Rronkowski,15,41,NYJ
-Diesel,15,44,JAC
-Gronky Kong,15,47,NYJ
-aaron donald trump,15,47,NYJ
-Gritty,15,48,NYJ
-cgossen,15,55,NYJ
+JAX +0.5
+Under 47.5
+Jacksonville
+Jacksonville
+LAC
+```
+
+```
+Buffalo -10.5
+Over 44.5
+Buffalo
+Buffalo
+Buffalo
+
+
+NYG +2.5
+Under 48.5
+Minnesota
+Minnesota
+NYG
+
+
+Cincinnati -6.5
+Over 43.5
+Cincinnati
+Cincinnati
+Cincinnati
+
+
+Dallas -2.5
+Under 45.5
+Dallas
+Dallas
+Dallas
+```
+
+```
+1 SF rush yards
+2 Yes Allen > throw 2 TDs
+3 No K. Walker III Seattle run > 65.5 yards
+4 Yes C. Lamb from Dallas catch for more than 70.5 yards?
+5 Fumble Balt/Cin first turnover
+6 Buffalo Mia vs. Buff score first?
+7 Baltimore most penalty yards
+8 NYG longest field goal
 ```
 
 # newsletter archive
