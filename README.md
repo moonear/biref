@@ -20,15 +20,17 @@ Over 44.5
 Buffalo
 Buffalo
 Buffalo
+```
 
-
+```
 NYG +2.5
 Under 48.5
 Minnesota
 Minnesota
 NYG
+```
 
-
+```
 Cincinnati -6.5
 Over 43.5
 Cincinnati
