@@ -11,13 +11,6 @@ What color will Rihanna's FIRST outfit be?
 (Black, gold, silver/gray, white, purple, pink or other)
 ```
 
-```
-NYG +2.5
-Under 48.5
-Minnesota
-Minnesota
-NYG
-```
 
 ```
 What will be the first song performed by Rihanna at the halftime show? (2 points)
