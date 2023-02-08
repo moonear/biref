@@ -1,25 +1,14 @@
 ```
-Seattle +9.5
-Under 42.5
-Seattle
-SF
-SF
+The opening coin toss will be (heads or tails)?
 ```
 
 ```
-JAX +0.5
-Under 47.5
-Jacksonville
-Jacksonville
-LAC
+How many songs will be sung during the halftime show - 9.5 (Under/Over)
 ```
 
 ```
-Buffalo -10.5
-Over 44.5
-Buffalo
-Buffalo
-Buffalo
+What color will Rihanna's FIRST outfit be?
+(Black, gold, silver/gray, white, purple, pink or other)
 ```
 
 ```
@@ -31,30 +20,10 @@ NYG
 ```
 
 ```
-Cincinnati -6.5
-Over 43.5
-Cincinnati
-Cincinnati
-Cincinnati
-
-
-Dallas -2.5
-Under 45.5
-Dallas
-Dallas
-Dallas
+What will be the first song performed by Rihanna at the halftime show? (2 points)
+(Umbrella, Don't Stop the Music, We Found Love, Where Have You Been, Diamonds or other)
 ```
 
-```
-1 SF rush yards
-2 Yes Allen > throw 2 TDs
-3 No K. Walker III Seattle run > 65.5 yards
-4 Yes C. Lamb from Dallas catch for more than 70.5 yards?
-5 Fumble Balt/Cin first turnover
-6 Buffalo Mia vs. Buff score first?
-7 Baltimore most penalty yards
-8 NYG longest field goal
-```
 
 # newsletter archive
 - sqlbi [https://www.sqlbi.com/newsletter/](https://www.sqlbi.com/newsletter/)
