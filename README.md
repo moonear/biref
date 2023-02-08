@@ -17,6 +17,11 @@ What will be the first song performed by Rihanna at the halftime show? (2 points
 (Umbrella, Don't Stop the Music, We Found Love, Where Have You Been, Diamonds or other)
 ```
 
+```
+During the Halftime Show who will make a cameo appearance with Rihanna?
+(A$SAP Rocky, Drake, Jay Z, or other/no one)
+```
+
 
 # newsletter archive
 - sqlbi [https://www.sqlbi.com/newsletter/](https://www.sqlbi.com/newsletter/)
