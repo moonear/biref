@@ -1,26 +1,3 @@
-```
-The opening coin toss will be (heads or tails)?
-```
-
-```
-How many songs will be sung during the halftime show - 9.5 (Under/Over)
-```
-
-```
-What color will Rihanna's FIRST outfit be?
-(Black, gold, silver/gray, white, purple, pink or other)
-```
-
-
-```
-What will be the first song performed by Rihanna at the halftime show? (2 points)
-(Umbrella, Don't Stop the Music, We Found Love, Where Have You Been, Diamonds or other)
-```
-
-```
-During the Halftime Show who will make a cameo appearance with Rihanna?
-(A$SAP Rocky, Drake, Jay Z, or other/no one)
-```
 
 
 # newsletter archive
