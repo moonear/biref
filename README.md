@@ -46,11 +46,15 @@ GB
 ```
 
 Date,Matchup,Spread,Over/Under
+
 "Sat, Jan 10",<b>LAR</b> vs. Carolina,10.5,46.5
+
 "Sat, Jan 10",<b>GB</b> vs. Chicago,-0.5,45.5
+
 "Sun, Jan 11",<b>Buffalo</b> vs. Jacksonville,1.5,51.5
 
 "Sun, Jan 11",<b>SF</b> vs. Philadelphia,-4.5,45.5
+
 "Sun, Jan 11",<b>LAC</b> vs. NE,-3.5,46.5
 
-"Mon, Jan 12",Houston vs. Pittsburgh,3.5,39.5
+"Mon, Jan 12",<b>Houston</b> vs. Pittsburgh,3.5,39.5
