@@ -27,7 +27,7 @@ Longest Field Goal (2 pts): Which of the 12 teams will record the longest field 
 
 
 ```
-Pittsburgh
+Jacksonville
 
 Yes
 
@@ -35,7 +35,7 @@ Yes
 
 Yes
 
-Fumble
+Interception
 
 SF
 
